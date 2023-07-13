@@ -8,7 +8,7 @@ bundle lock --add-platform x86_64-linux
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
-
+bundle install 
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
