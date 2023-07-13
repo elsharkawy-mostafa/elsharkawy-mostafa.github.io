@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /contactme/
-title: "Contact"
+permalink: /contact/
+title: "Contact me"
 excerpt: ""
 author_profile: true
 ---
