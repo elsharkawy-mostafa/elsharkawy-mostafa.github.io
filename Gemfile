@@ -22,6 +22,10 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+gem "jekyll", "~> 4.2.0"
+
+gem "github-pages", "211"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
