@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[You can view my CV here](https://elsharkawy-mostafa/elsharkawy-mostafa.github.io/files/CV.pdf)
+
 {% include base_path %}
 
 Education
