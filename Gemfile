@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-bundle exec jekyll serve
+#bundle exec jekyll serve
 
-bundle lock --add-platform x86_64-linux
+#bundle lock --add-platform x86_64-linux
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -27,5 +27,5 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  
+  gem 'hawkins'
 end
