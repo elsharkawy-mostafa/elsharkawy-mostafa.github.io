@@ -12,4 +12,4 @@ Welcome! I'm an incoming Ph.D. student at the University of Michigan. My researc
 
 Prior to arriving at Michigan, I graduated from the University of Toronto with a B.A. in International Relations and Public Policy. Previously, I worked as a researcher at the Canadian Network for Research on Terrorism, Security and Society focusing on violent extremism in Canada. I also worked at the House of Commons as a policy assistant. 
 
-Feel free to contact me at melshar@umich.edu or via Twitter @SharkawiMostafa!
+I can be reached at melshar@umich.edu or via Twitter @SharkawiMostafa.
