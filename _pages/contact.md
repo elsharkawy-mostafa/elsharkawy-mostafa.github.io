@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /contactme/
 title: "Contact"
 excerpt: ""
 author_profile: true
