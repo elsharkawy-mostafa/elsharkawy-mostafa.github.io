@@ -20,4 +20,4 @@ The Arab Spring spawned a whole host of political opportunities for previously r
 
 Poster available [here](https://elsharkawy-mostafa.github.io/files/poster.pdf)
 
-## "Speech Diplomacy in the Middle East: Evidence from U.S. Presidential Speeches"##
+## "Speech Diplomacy in the Middle East: Evidence from U.S. Presidential Speeches"
