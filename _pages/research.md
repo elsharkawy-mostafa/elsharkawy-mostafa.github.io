@@ -29,7 +29,7 @@ Acts of terrorism left unclaimed have puzzled scholars in the study of terrorism
 
 My current works in progress include: 
 
-# "Disseminators and Innovators: The Role of Religious Institutions in Shaping Public Opinion"
+## "Disseminators and Innovators: The Role of Religious Institutions in Shaping Public Opinion"
 
 ## "Speech Diplomacy in the Middle East: Evidence from U.S. Presidential Speeches"
 
