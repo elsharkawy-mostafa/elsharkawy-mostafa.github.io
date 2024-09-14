@@ -19,7 +19,7 @@ My current works in progress include:
 
 ## "The Political Legacies of the Bosnian War and Genocide (w/ Caroline Lindey)" 
 
-## "Innovators and Dissemenators: The Role of Religious Institutions in Shaping Attitudes about Political Violence"
+## "The Role of Religious Institutions in Shaping Attitudes about Political Violence"
 
 
 
