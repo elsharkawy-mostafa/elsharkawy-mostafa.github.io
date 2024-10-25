@@ -18,7 +18,7 @@ Abstract: Acts of terrorism left unclaimed have puzzled scholars in the study of
 
 ##### "The Political Legacies of the Bosnian War and Genocide (w/ Caroline Lindey)" 
 
-##### "Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation (w/ Pauline Jones"
+##### "Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation (w/ Pauline Jones)"
 
 
 
