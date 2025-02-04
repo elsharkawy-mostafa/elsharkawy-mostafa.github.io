@@ -20,5 +20,7 @@ Abstract: Acts of terrorism left unclaimed have puzzled scholars in the study of
 
 ##### "Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation (w/ Pauline Jones)"
 
+#### "The Political Economy of the American Mosque" (w/ Hasher Nisar)
+
 
 
