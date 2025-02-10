@@ -1,16 +1,21 @@
-.container {
-    width:100%;
-    border:1px solid #d3d3d3;
-}
-.container div {
-    width:100%;
-}
+/* Style the collapsible header (button) */
 .container .header {
-    background-color:#d3d3d3;
-    padding: 2px;
+    background-color: #4CAF50; /* Change the color */
+    color: white;
     cursor: pointer;
-    font-weight: bold;
+    padding: 10px;
+    font-size: 15px;
+    text-align: left;
 }
+
+/* Style the collapsible header on hover */
+.container .header:hover {
+    background-color: #45a049;
+}
+
+/* Style the collapsible content */
 .container .content {
     display: none;
-    padding : 5px;
+    padding: 0 18px;
+    background-color: #f1f1f1;
+}
