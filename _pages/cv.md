@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[You can view my CV (https://elsharkawy-mostafa.github.io/files/CV_ElSharkawy.pdf) here]
+[You can view my CV **here**](https://elsharkawy-mostafa.github.io/files/CV_ElSharkawy.pdf)
+
 
 
