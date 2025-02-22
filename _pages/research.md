@@ -47,5 +47,4 @@ author_profile: true
 
 **"Not All Quiet on the Religious Front: How Political Violence Disrupts Religious Institutions"**  
 
-**"The Political Economy of the American Mosque"**  
-  *with Hasher Nisar*  
+**"The Political Economy of the American Mosque"** *with Hasher Nisar*  
