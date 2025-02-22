@@ -35,7 +35,7 @@ What is the relationship between terrorism and religious repression? Some argue 
 
 ## Work in Progress  
 
-- **"Not All Quiet on the Religious Front: How Political Violence Disrupts Religious Institutions"**  
+**"Not All Quiet on the Religious Front: How Political Violence Disrupts Religious Institutions"**  
 
-- **"The Political Economy of the American Mosque"**  
+**"The Political Economy of the American Mosque"**  
   *with Hasher Nisar*  
