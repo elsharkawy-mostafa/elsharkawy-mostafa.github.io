@@ -19,8 +19,7 @@ author_profile: true
 
 ---
 
-### **"The Political Legacies of the Bosnian War and Genocide"** 
-### *with Caroline Lindey*  
+### **"The Political Legacies of the Bosnian War and Genocide"** - *with Caroline Lindey*  
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -31,8 +30,7 @@ author_profile: true
 
 ---
 
-### **"Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation"** 
-### *with Pauline Jones*  
+### **"Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation"** - *with Pauline Jones*  
 
 <details>
   <summary><strong>Abstract</strong></summary>
