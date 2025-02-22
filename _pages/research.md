@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research  
+# Research  
 
-### Working Papers  
+## Working Papers  
 
-#### **"Anonymous Attackers: An Alternative Logic to Credit-taking in Terrorism"**  
+### **"Anonymous Attackers: An Alternative Logic to Credit-taking in Terrorism"**  
 *Paper available upon request*  
 
 **Abstract:**  
@@ -17,9 +17,9 @@ Acts of terrorism left unclaimed have puzzled scholars in the study of terrorism
 
 This paper explores an alternative theoretical approach to answer the question, what explains the incidence of unclaimed or “anonymous” terrorism? I present an argument about the role of low-level members of terrorist organizations as central agents in the prevalence of attacks that are registered as unclaimed. Utilizing data from the Global Terrorism Database and the Minorities at Risk Organizational Behaviour dataset, I show that countries with less cohesive or weakly organized groups, on average, see a higher rate of unclaimed terrorism.  
 
----  
+---
 
-#### **"The Political Legacies of the Bosnian War and Genocide"**  
+### **"The Political Legacies of the Bosnian War and Genocide"**  
 *with Caroline Lindey*  
 
 **Abstract:**  
@@ -29,9 +29,9 @@ In this paper, we study the long-term political consequences of the Bosnian war 
 
 Our study contributes to the growing literature on the legacy of political violence and the study of intergenerational reconciliation and transitional justice in Bosnia and Herzegovina.  
 
----  
+---
 
-#### **"Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation"**  
+### **"Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation"**  
 *with Pauline Jones*  
 
 **Abstract:**  
@@ -43,7 +43,7 @@ Our preliminary conclusion is that the relationship between terrorism and religi
 
 ---
 
-### Work in Progress  
+## Work in Progress  
 
 - **"Not All Quiet on the Religious Front: How Political Violence Disrupts Religious Institutions"**  
 
