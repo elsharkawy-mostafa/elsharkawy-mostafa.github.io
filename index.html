@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Your Name - Academic/Portfolio</title>
+    <title>Mostafa El Sharkawy</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -34,14 +34,34 @@
             border-radius: 4px;
             margin: 10px 0;
         }
+        .abstract {
+            display: none;
+            padding: 15px;
+            margin: 10px 0;
+            background: #f9f9f9;
+            border-left: 3px solid #0366d6;
+        }
+        .show-abstract {
+            color: #0366d6;
+            cursor: pointer;
+            font-size: 0.9em;
+            margin: 5px 0;
+            display: inline-block;
+        }
+        .paper-links {
+            margin: 5px 0 15px;
+        }
+        .work-in-progress {
+            margin-top: 30px;
+        }
     </style>
 </head>
 <body>
     <header>
-        <!-- Replace with your image (host it on GitHub or Imgur) -->
-        <img src="your-photo.jpg" alt="Your Name" class="avatar">
-        <h1>Your Name</h1>
-        <p>Brief intro (e.g., "PhD Candidate in Economics at University X")</p>
+        <img src="your-photo.jpg" alt="Mostafa El Sharkawy" class="avatar">
+        <h1>Mostafa El Sharkawy</h1>
+        <p>Welcome! I'm a Ph.D. student at the University of Michigan. My research focuses on the comparative politics of the Middle East and Muslim-majority states with a particular interest in political violence, political Islam and religious institutions. I'm also interested in computational text analysis and spatial statistics.
+        Prior to arriving at Michigan, I graduated from the University of Toronto with a B.A. in International Relations and Public Policy. Previously, I worked as a researcher at the Canadian Network for Research on Terrorism, Security and Society focusing on violent extremism in Canada. I also worked at the House of Commons as a policy assistant.</p>
         <a href="your-cv.pdf" class="cv-link" target="_blank">Download CV (PDF)</a>
     </header>
 
@@ -49,21 +69,64 @@
         <h2>Working Papers</h2>
         <ol>
             <li>
-                <strong>Paper Title 1</strong><br>
-                Co-authors (if any)<br>
-                <em>Status: Under review</em> | 
-                <a href="#" target="_blank">PDF</a> | 
-                <a href="#" target="_blank">SSRN</a>
+                <strong>"Anonymous Attackers: An Alternative Logic to Credit-taking in Terrorism"</strong><br>
+                <div class="show-abstract" onclick="toggleAbstract('abstract1')">▼ Show abstract</div>
+                <div id="abstract1" class="abstract">
+                    <p>Acts of terrorism left unclaimed have puzzled scholars in the study of terrorism and counterterrorism policymakers alike. The very idea to commit an act of terrorism, but not take credit for it runs contrary to the conventional wisdom of credit-taking and political communication in terrorism. Extant literature has understood terrorist groups as unitary actors, failing to account for inter-group variation and individual preferences. As a consequence, unclaimed terrorism, or attacks left unclaimed, present a dilemma to the rational model where acts of terrorism are understood to be a form of costly signaling. If such a costly form of 'signaling' is authorized by a group, how do so many attacks go unclaimed?</p>
+                    <p>This paper explores an alternative theoretical approach to answer the question, what explains the incidence of unclaimed or "anonymous" terrorism? I present an argument about the role of low-level members of terrorist organizations as central agents in the prevalence of attacks that are registered as unclaimed. Utilizing data from the Global Terrorism Database and the Minorities at Risk Organizational Behaviour dataset, I show that countries with less cohesive or weakly organized groups, on average, see a higher rate of unclaimed terrorism.</p>
+                </div>
+                <div class="paper-links">
+                    Paper available upon request
+                </div>
             </li>
             <li>
-                <strong>Paper Title 2</strong><br>
-                <em>Status: Work in progress</em>
+                <strong>"The Political Legacies of the Bosnian War and Genocide"</strong> - with Caroline Lindey<br>
+                <div class="show-abstract" onclick="toggleAbstract('abstract2')">▼ Show abstract</div>
+                <div id="abstract2" class="abstract">
+                    <p>How does political violence shape local attitudes towards social cohesion? Establishing peace in post-conflict settings is often tied to efforts towards reconciliation and justice for the victims and their families. While scholars have studied the immediate steps towards reconciliation, less attention has been paid to the role of historical political violence in shaping contemporary views towards reconciliation, justice, and retribution.</p>
+                    <p>In this paper, we study the long-term political consequences of the Bosnian war and genocide on attitudes and behavior among Bosnians today. Using biographical data on individuals killed between 1992 and 1995 in Bosnia and the location of war memorials, we find that while violence reduces inter-ethnic trust and harmony attitudes, war memorials—especially when personalized—can mitigate that effect. We also find that the effect of exposure to violence differs by generational cohorts, which we attribute to older generations' exposure to other violence, namely World War II. Our study contributes to the growing literature on the legacy of political violence and the study of intergenerational reconciliation and transitional justice in Bosnia and Herzegovina.</p>
+                </div>
+                <div class="paper-links">
+                    Paper available upon request
+                </div>
+            </li>
+            <li>
+                <strong>"Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation"</strong> - with Pauline Jones<br>
+                <div class="show-abstract" onclick="toggleAbstract('abstract3')">▼ Show abstract</div>
+                <div id="abstract3" class="abstract">
+                    <p>What is the relationship between terrorism and religious repression? Some argue that terrorism is a byproduct of state repression, especially religious repression, when it comes to Muslim majority countries (MMCs) and Islamist terrorism. Others contend that state repression – including repressive religious regulation – is a rational state strategy for combatting or mitigating terrorism.</p>
+                    <p>Focusing on the motivations of state leaders, we ask whether the threat of terrorism is a smoke screen to justify increasing religious repression or a rational response to a real or perceived security threat. We employ multiple empirical tests utilizing new data on religious regulation from three newly independent MMCs that have experienced both exposure to terrorism and increasing levels of religious repression since 1991 – Kyrgyzstan, Tajikistan, and Uzbekistan. Our preliminary conclusion is that the relationship between terrorism and religious repression may be both temporary and non-linear. In other words, even if states initially impose religious restrictions in response to a real or perceived threat of terrorism, these restrictions can accelerate for other reasons that are unrelated to terrorism.</p>
+                </div>
+                <div class="paper-links">
+                    Paper available upon request
+                </div>
             </li>
         </ol>
+
+        <h2 class="work-in-progress">Work in Progress</h2>
+        <ul>
+            <li>"Not All Quiet on the Religious Front: How Political Violence Disrupts Religious Institutions"</li>
+            <li>"The Political Economy of the American Mosque" with Hasher Nisar</li>
+        </ul>
     </main>
 
     <footer>
-        <p>Contact: <a href="mailto:your@email.com">your@email.com</a></p>
+        <p>Contact: <a href="mailto:melshar@umich.edu">melshar@umich.edu</a></p>
     </footer>
+
+    <script>
+        function toggleAbstract(id) {
+            const abstract = document.getElementById(id);
+            const button = abstract.previousElementSibling;
+            
+            if (abstract.style.display === "block") {
+                abstract.style.display = "none";
+                button.textContent = "▼ Show abstract";
+            } else {
+                abstract.style.display = "block";
+                button.textContent = "▲ Hide abstract";
+            }
+        }
+    </script>
 </body>
 </html>
