@@ -4,28 +4,31 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Mostafa El Sharkawy</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             line-height: 1.6;
             color: #333;
-            max-width: 650px;
+            max-width: 700px;
             margin: 40px auto;
             padding: 0 20px;
         }
         a {
-            color: #0366d6;
+            color: #1a5a96;
             text-decoration: none;
+            font-weight: 500;
         }
         a:hover {
             text-decoration: underline;
         }
         img.avatar {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            object-fit: cover;
+            width: 100%;
+            max-width: 500px;
+            height: auto;
             margin: 20px 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         .cv-link {
             display: inline-block;
@@ -39,10 +42,10 @@
             padding: 15px;
             margin: 10px 0;
             background: #f9f9f9;
-            border-left: 3px solid #0366d6;
+            border-left: 3px solid #1a5a96;
         }
         .show-abstract {
-            color: #0366d6;
+            color: #1a5a96;
             cursor: pointer;
             font-size: 0.9em;
             margin: 5px 0;
@@ -50,19 +53,23 @@
         }
         .paper-links {
             margin: 5px 0 15px;
+            font-style: italic; /* Added italic style */
         }
         .work-in-progress {
             margin-top: 30px;
+        }
+        h1 {
+            margin-bottom: 5px;
         }
     </style>
 </head>
 <body>
     <header>
-        <img src="profile.png" alt="Mostafa El Sharkawy" class="avatar">
         <h1>Mostafa El Sharkawy</h1>
+        <img src="profile.png" alt="Mostafa El Sharkawy" class="avatar">
         <p>Welcome! I'm a Ph.D. student at the University of Michigan. My research focuses on the comparative politics of the Middle East and Muslim-majority states with a particular interest in political violence, political Islam and religious institutions. I'm also interested in computational text analysis and spatial statistics.
         Prior to arriving at Michigan, I graduated from the University of Toronto with a B.A. in International Relations and Public Policy. Previously, I worked as a researcher at the Canadian Network for Research on Terrorism, Security and Society focusing on violent extremism in Canada. I also worked at the House of Commons as a policy assistant.</p>
-        <a href="CV_ElSharkawy.pdf" class="cv-link" target="_blank">You can access my CV here)</a>
+        <a href="CV_ElSharkawy.pdf" class="cv-link" target="_blank">Download my CV (PDF)</a>
     </header>
 
     <main>
@@ -76,7 +83,7 @@
                     <p>This paper explores an alternative theoretical approach to answer the question, what explains the incidence of unclaimed or "anonymous" terrorism? I present an argument about the role of low-level members of terrorist organizations as central agents in the prevalence of attacks that are registered as unclaimed. Utilizing data from the Global Terrorism Database and the Minorities at Risk Organizational Behaviour dataset, I show that countries with less cohesive or weakly organized groups, on average, see a higher rate of unclaimed terrorism.</p>
                 </div>
                 <div class="paper-links">
-                    Paper available upon request
+                    <em>Paper available upon request</em> <!-- Italicized and only for this paper -->
                 </div>
             </li>
             <li>
@@ -86,9 +93,7 @@
                     <p>How does political violence shape local attitudes towards social cohesion? Establishing peace in post-conflict settings is often tied to efforts towards reconciliation and justice for the victims and their families. While scholars have studied the immediate steps towards reconciliation, less attention has been paid to the role of historical political violence in shaping contemporary views towards reconciliation, justice, and retribution.</p>
                     <p>In this paper, we study the long-term political consequences of the Bosnian war and genocide on attitudes and behavior among Bosnians today. Using biographical data on individuals killed between 1992 and 1995 in Bosnia and the location of war memorials, we find that while violence reduces inter-ethnic trust and harmony attitudes, war memorials—especially when personalized—can mitigate that effect. We also find that the effect of exposure to violence differs by generational cohorts, which we attribute to older generations' exposure to other violence, namely World War II. Our study contributes to the growing literature on the legacy of political violence and the study of intergenerational reconciliation and transitional justice in Bosnia and Herzegovina.</p>
                 </div>
-                <div class="paper-links">
-                    Paper available upon request
-                </div>
+                <!-- Removed "Paper available upon request" for this paper -->
             </li>
             <li>
                 <strong>"Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation"</strong> - with Pauline Jones<br>
@@ -97,9 +102,7 @@
                     <p>What is the relationship between terrorism and religious repression? Some argue that terrorism is a byproduct of state repression, especially religious repression, when it comes to Muslim majority countries (MMCs) and Islamist terrorism. Others contend that state repression – including repressive religious regulation – is a rational state strategy for combatting or mitigating terrorism.</p>
                     <p>Focusing on the motivations of state leaders, we ask whether the threat of terrorism is a smoke screen to justify increasing religious repression or a rational response to a real or perceived security threat. We employ multiple empirical tests utilizing new data on religious regulation from three newly independent MMCs that have experienced both exposure to terrorism and increasing levels of religious repression since 1991 – Kyrgyzstan, Tajikistan, and Uzbekistan. Our preliminary conclusion is that the relationship between terrorism and religious repression may be both temporary and non-linear. In other words, even if states initially impose religious restrictions in response to a real or perceived threat of terrorism, these restrictions can accelerate for other reasons that are unrelated to terrorism.</p>
                 </div>
-                <div class="paper-links">
-                    Paper available upon request
-                </div>
+                <!-- Removed "Paper available upon request" for this paper -->
             </li>
         </ol>
 
@@ -111,7 +114,7 @@
     </main>
 
     <footer>
-        <p>Contact: <a href="mailto:melshar@umich.edu">melshar@umich.edu</a></p>
+        <p>You can contact me at: <a href="mailto:melshar@umich.edu">melshar@umich.edu</a></p>
     </footer>
 
     <script>
