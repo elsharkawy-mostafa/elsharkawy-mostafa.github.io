@@ -47,6 +47,7 @@ What is the relationship between terrorism and religious repression? Some argue 
 </blockquote>
 </details>
 
+
 ### Work in Progress
 
 - "The Supply and Demand of Religious Messaging: Evidence from Social Media"
@@ -63,6 +64,10 @@ What is the relationship between terrorism and religious repression? Some argue 
 **Introduction to Comparative Politics**, Winter 2025  
 *Instructor: Brian Min*
 
+**Graduate Teacher Certificate Program** 
+<details>
+<summary>Show abstract</summary>
+<blockquote>
 I am currently participating in the University of Michigan's **Graduate Teacher Certificate (GTC) Program**, coordinated by the Center for Research on Learning and Teaching (CRLT). As part of this program, I have:
 
 - Completed workshops on teaching and learning
@@ -70,6 +75,9 @@ I am currently participating in the University of Michigan's **Graduate Teacher 
 - Begun a mentorship on college-level teaching
 
 Please contact me for teaching materials.
+</blockquote>
+</details>
+
 
 ### University of Michigan – Mentorship Programs
 
@@ -78,9 +86,11 @@ I have been privileged to participate in several mentorship programs at the Univ
 - **Mentor**, Undergraduate Research Opportunity Program (2024–25, 2025–26)
 - **Mentor**, Summer Research Opportunity Program (2024, 2025)
 - **Graduate Student Organizer**, Eldersveld Emerging Scholars Conference (2023, 2025)
-
+<blockquote>
 > This conference is designed to broaden the diversity of perspectives in political science by encouraging talented students from underrepresented backgrounds who are engaged in original research projects to apply to Ph.D. programs in political science, both at Michigan and beyond.
-
 [Learn more about the program here](https://www.lsa.umich.edu/polisci/).
+</blockquote>
+</details>
+
 
 ---
