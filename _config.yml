@@ -1,0 +1,15 @@
+title: Mostafa El Sharkawy
+description: PhD Candidate at the University of Michigan
+theme: jekyll-theme-minimal
+
+nav:
+  - title: "About"
+    url: /about
+  - title: "Research"
+    url: /research
+  - title: "Teaching"
+    url: /teaching
+  - title: "Contact"
+    url: /contact
+    
+include: ["assets/css"]
