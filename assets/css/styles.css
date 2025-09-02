@@ -1,3 +1,23 @@
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.about-left img {
+  max-width: 200px;
+  border-radius: 50%;
+  display: block;
+}
+
+.about-right {
+  flex: 1;
+  min-width: 300px;
+}
+
+
 .btn {
   display: inline-block;
   padding: 8px 16px;
@@ -11,3 +31,5 @@
 .btn:hover {
   background-color: #024c9a;
 }
+
+
