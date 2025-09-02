@@ -4,7 +4,6 @@ title: Mostafa El Sharkawy
 ---
 
 # About
-
 I'm a Ph.D. candidate in Political Science at the University of Michigan. My research focuses on the politics of religion, identity, and violence predominantly in the Middle East and Muslim-majority countries.
 
 My dissertation project combines text analysis, survey data, and qualitative interviews to investigate the political behaviour of religious authorities during periods of political crisis and contention. I am grateful to the Global Islamic Studies Center, the Rackham Graduate School, and the APSA-MENA for support.
@@ -13,12 +12,15 @@ Prior to arriving at Michigan, I graduated from the University of Toronto with a
 
 You can reach me at 📧 [melshar@umich.edu](mailto:melshar@umich.edu) and 📄 [view my CV](assets/CV.pdf) here.
 
+---
 
 ## Research
 
 ### Working Papers
 
 **1. "Anonymous Attackers: An Alternative Logic to Credit-taking in Terrorism"**
+
+*Paper available upon request*
 
 <details>
 <summary>Show abstract</summary>
@@ -27,7 +29,8 @@ Acts of terrorism left unclaimed have puzzled scholars in the study of terrorism
 </blockquote>
 </details>
 
-*Paper available upon request*
+
+---
 
 **2. "War, Memory and Social Cohesion: The Intergenerational Legacy of Political Violence"** – with Caroline Lindey
 
@@ -38,6 +41,8 @@ How does political violence shape local attitudes towards social cohesion? Estab
 </blockquote>
 </details>
 
+---
+
 **3. "Opportunistic Repression? Understanding the Relationship between Terrorism and Religious Regulation"** – with Pauline Jones
 
 <details>
@@ -47,12 +52,15 @@ What is the relationship between terrorism and religious repression? Some argue 
 </blockquote>
 </details>
 
+---
 
 ### Work in Progress
 
 - "The Supply and Demand of Religious Messaging: Evidence from Social Media"
 - "The Political Economy of the American Mosque" – with Hasher Nisar  
 - "Local Church Authority and the Holy Land Crusades"
+
+---
 
 ## Teaching
 
@@ -64,11 +72,12 @@ What is the relationship between terrorism and religious repression? Some argue 
 **Introduction to Comparative Politics**, Winter 2025  
 *Instructor: Brian Min*
 
-**Graduate Teacher Certificate Program** 
+**Graduate Teacher Certificate Program**
+
 <details>
-<summary>Show abstract</summary>
+<summary>Show details</summary>
 <blockquote>
-I am currently participating in the University of Michigan's **Graduate Teacher Certificate (GTC) Program**, coordinated by the Center for Research on Learning and Teaching (CRLT). As part of this program, I have:
+I am currently participating in the University of Michigan's Graduate Teacher Certificate (GTC) Program, coordinated by the Center for Research on Learning and Teaching (CRLT). As part of this program, I have:
 
 - Completed workshops on teaching and learning
 - Participated in a student-led consultation and classroom observation of my teaching  
@@ -78,6 +87,7 @@ Please contact me for teaching materials.
 </blockquote>
 </details>
 
+---
 
 ### University of Michigan – Mentorship Programs
 
@@ -86,11 +96,12 @@ I have been privileged to participate in several mentorship programs at the Univ
 - **Mentor**, Undergraduate Research Opportunity Program (2024–25, 2025–26)
 - **Mentor**, Summer Research Opportunity Program (2024, 2025)
 - **Graduate Student Organizer**, Eldersveld Emerging Scholars Conference (2023, 2025)
+
+<details>
+<summary>Show conference details</summary>
 <blockquote>
-> This conference is designed to broaden the diversity of perspectives in political science by encouraging talented students from underrepresented backgrounds who are engaged in original research projects to apply to Ph.D. programs in political science, both at Michigan and beyond.
-[Learn more about the program here](https://lsa.umich.edu/polisci/graduates/emerging-scholars.html).
+This conference is designed to broaden the diversity of perspectives in political science by encouraging talented students from underrepresented backgrounds who are engaged in original research projects to apply to Ph.D. programs in political science, both at Michigan and beyond.
+
+<a href="https://lsa.umich.edu/polisci/graduates/emerging-scholars.html">Learn more about the program here</a>.
 </blockquote>
 </details>
-
-
----
