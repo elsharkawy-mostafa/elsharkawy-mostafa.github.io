@@ -1,3 +1,4 @@
+/* About Section Layout */
 .about-container {
   display: flex;
   gap: 40px;
@@ -8,7 +9,8 @@
 .about-left {
   min-width: 200px;
   max-width: 250px;
-  text-align: center;
+  text-align: left;
+  flex-shrink: 0;
 }
 
 .about-left img {
