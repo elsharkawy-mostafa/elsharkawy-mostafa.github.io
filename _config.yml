@@ -2,6 +2,8 @@ title: Mostafa El Sharkawy
 description: PhD Candidate at the University of Michigan
 theme: jekyll-theme-minimal
 
+logo: assets/headshot.png
+
 nav:
   - title: "About"
     url: /#about
