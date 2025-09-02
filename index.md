@@ -107,10 +107,3 @@ Instructor: Brian Min</p>
 <p><em>This conference is designed to broaden the diversity of perspectives in political science by encouraging talented students from underrepresented backgrounds who are engaged in original research projects to apply to Ph.D. programs in political science, both at Michigan and beyond.</em><br>
 <a href="https://www.lsa.umich.edu/polisci/">Learn more here</a>.</p>
 </section>
-
-<!-- Contact Section -->
-<section id="contact">
-<h2>Contact</h2>
-<p>📧 <a href="mailto:melshar@umich.edu">Email me</a> | 📄 <a href="assets/CV.pdf" class="btn">Download my CV</a></p>
-<p>Department of Political Science, University of Michigan</p>
-</section>
