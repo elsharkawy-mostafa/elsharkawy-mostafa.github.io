@@ -13,6 +13,7 @@ title: Home
     <div class="about-left">
       <img src="assets/headshot.png" alt="Headshot of Mostafa El Sharkawy">
       <h1>Mostafa El Sharkawy</h1>
+      <p><strong>Ph.D. Candidate</strong> – Department of Political Science, University of Michigan</p>
       <p>📧 <a href="mailto:melshar@umich.edu">Email me</a></p>
       <p>📄 <a href="assets/CV.pdf" class="btn">Download my CV</a></p>
     </div>
