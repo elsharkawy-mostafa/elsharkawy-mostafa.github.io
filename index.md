@@ -89,16 +89,13 @@ Please contact me for teaching materials.
 
 ---
 
-### University of Michigan – Mentorship Programs
+### University of Michigan – Mentorship
 
 I have been privileged to participate in several mentorship programs at the University of Michigan:
 
 - **Mentor**, Undergraduate Research Opportunity Program (2024–25, 2025–26)
 - **Mentor**, Summer Research Opportunity Program (2024, 2025)
-- **Graduate Student Organizer**, Eldersveld Emerging Scholars Conference (2023, 2025)
-
-<details>
-<summary>Show conference details</summary>
+- **Graduate Student Organizer**, <details><summary>Eldersveld Emerging Scholars Conference (2023, 2025)</summary>
 <blockquote>
 This conference is designed to broaden the diversity of perspectives in political science by encouraging talented students from underrepresented backgrounds who are engaged in original research projects to apply to Ph.D. programs in political science, both at Michigan and beyond.
 
