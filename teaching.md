@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching
+permalink: /teaching/
 ---
 
 ## University of Michigan – Graduate Student Instructor (GSI)
