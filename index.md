@@ -88,7 +88,7 @@ I have been privileged to participate in several mentorship programs at the Univ
 - **Graduate Student Organizer**, Eldersveld Emerging Scholars Conference (2023, 2025)
 <blockquote>
 > This conference is designed to broaden the diversity of perspectives in political science by encouraging talented students from underrepresented backgrounds who are engaged in original research projects to apply to Ph.D. programs in political science, both at Michigan and beyond.
-[Learn more about the program here](https://www.lsa.umich.edu/polisci/).
+[Learn more about the program here](https://lsa.umich.edu/polisci/graduates/emerging-scholars.html).
 </blockquote>
 </details>
 
