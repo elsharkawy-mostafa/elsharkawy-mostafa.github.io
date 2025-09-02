@@ -95,9 +95,4 @@ I have been privileged to participate in several mentorship programs at the Univ
 
 - **Mentor**, Undergraduate Research Opportunity Program (2024–25, 2025–26)
 - **Mentor**, Summer Research Opportunity Program (2024, 2025)
-- **Graduate Student Organizer**, Eldersveld Emerging Scholars Conference (2023, 2025)
-<blockquote>
-This conference is designed to broaden the diversity of perspectives in political science by encouraging talented students from underrepresented backgrounds who are engaged in original research projects to apply to Ph.D. programs in political science, both at Michigan and beyond.
-[Learn more about the program here](https://lsa.umich.edu/polisci/graduates/emerging-scholars.html).
-</blockquote>
-</details>
+- **Graduate Student Organizer**, [Eldersveld Emerging Scholars Conference](https://lsa.umich.edu/polisci/graduates/emerging-scholars.html) (2023, 2025)
