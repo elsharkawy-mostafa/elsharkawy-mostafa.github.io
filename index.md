@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+
+<main>
+
 <!-- About Section -->
 <section id="about">
   <div class="about-container">
