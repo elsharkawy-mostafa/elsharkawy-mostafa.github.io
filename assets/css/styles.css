@@ -4,6 +4,7 @@
   gap: 40px;
   align-items: flex-start;
   flex-wrap: wrap;
+  margin-bottom: 50px;
 }
 
 .about-left {
@@ -30,4 +31,18 @@
 .about-right {
   flex: 1;
   min-width: 300px;
+}
+
+/* Optional: button styling */
+.btn {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #1a1a1a;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: #333;
 }
