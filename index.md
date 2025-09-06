@@ -64,8 +64,10 @@ What is the relationship between terrorism and religious repression? Some argue 
 ### University of Michigan
 
 #### Graduate Student Instructor
+
 **Introduction to Comparative Politics**, Winter 2025  
 *Instructor: Brian Min*
+
 **Introduction to American Politics**, Fall 2024  
 *Instructor: Kenneth Lowande*
 
