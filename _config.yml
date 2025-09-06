@@ -1,5 +1,12 @@
 title: Mostafa El Sharkawy
-description: Mostafa El Sharkawy
+description: | Mostafa El Sharkawy
+  <strong>Ph.D. Candidate</strong><br>
+  Department of Political Science<br>
+  University of Michigan<br>
+  📧 <a href="mailto:melshar@umich.edu">melshar@umich.edu</a><br>
+  <a href="assets/CV.pdf">📄 CV</a> | 
+  <a href="https://github.com/elsharkawy-mostafa">GitHub</a> | 
+  <a href="https://x.com/SharkawiMostafa">X</a>
 
 theme: jekyll-theme-minimal
 logo: assets/headshot.png
