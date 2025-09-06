@@ -3,10 +3,6 @@ layout: default
 title: Mostafa El Sharkawy
 ---
 
-{{ site.profile_description | default: "<strong>Ph.D. Candidate</strong><br>Department of Political Science<br>University of Michigan<br>📧 <a href='mailto:melshar@umich.edu'>melshar@umich.edu</a><br><a href='assets/CV.pdf'>📄 CV</a> | <a href='https://github.com/elsharkawy-mostafa'>GitHub</a> | <a href='https://x.com/SharkawiMostafa'>X</a>" }}
-
----
-
 # About
 
 I'm a Ph.D. candidate in Political Science at the [University of Michigan](https://lsa.umich.edu/polisci/people/graduate-students/mostafa-el-sharkawy.html). My research focuses on the politics of religion, identity, and conflict in the Middle East and Muslim-majority countries.
