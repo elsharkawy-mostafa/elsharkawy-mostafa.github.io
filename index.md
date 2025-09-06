@@ -11,7 +11,7 @@ My dissertation project combines text analysis, survey data, and qualitative int
 
 Prior to arriving at Michigan, I graduated from the [University of Toronto](https://www.utoronto.ca/) with a B.A. in International Relations and Public Policy. I have also worked as a researcher at the Canadian Network for Research on Terrorism, Security and Society and as a policy assistant at the House of Commons.
 
-My CV can be viewed [here](assets.CV.pdf) and I can be reached at [melshar@umich.edu](mailto:melshar@umich.edu)
+My CV can be viewed [here](/assets/CV.pdf) and I can be reached at [melshar@umich.edu](mailto:melshar@umich.edu)
 
 ## Research
 
