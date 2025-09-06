@@ -5,20 +5,19 @@ title: Mostafa El Sharkawy
 
 # About
 
-I'm a Ph.D. candidate in Political Science at the University of Michigan. My research focuses on the politics of religion, identity, and violence predominantly in the Middle East and Muslim-majority countries.
+I'm a Ph.D. candidate in Political Science at the [University of Michigan](https://lsa.umich.edu/polisci/people/graduate-students/mostafa-el-sharkawy.html). My research focuses on the politics of religion, identity, and violence predominantly in the Middle East and Muslim-majority countries.
 
-My dissertation project combines text analysis, survey data, and qualitative interviews to investigate the political behaviour of religious authorities during periods of political crisis and contention. I am grateful to the Global Islamic Studies Center, the Rackham Graduate School, and the APSA-MENA for support.
+My dissertation project combines text analysis, survey data, and qualitative interviews to investigate the political behaviour of religious authorities during periods of political crisis and contention. I am grateful to the [Global Islamic Studies Center](https://ii.umich.edu/content/ii-directory/islamicstudies/en.html), the [Rackham Graduate School](https://rackham.umich.edu/), and the [American Political Science Association's MENA Section](https://web.apsanet.org/mena/about-the-project/) for supporting my research.
 
-Prior to arriving at Michigan, I graduated from the University of Toronto with a B.A. in International Relations and Public Policy. I have also worked as a researcher at the Canadian Network for Research on Terrorism, Security and Society and as a policy assistant at the House of Commons.
+Prior to arriving at Michigan, I graduated from the [University of Toronto](https://www.utoronto.ca/) with a B.A. in International Relations and Public Policy. I have also worked as a researcher at the Canadian Network for Research on Terrorism, Security and Society and as a policy assistant at the House of Commons.
 
 
 ## Research
 
 ### Working Papers
+*All papers in this section are available upon request*
 
 **1. "Anonymous Attackers: An Alternative Logic to Credit-taking in Terrorism"**
-
-*Paper available upon request*
 
 <details>
 <summary>Show abstract</summary>
@@ -62,26 +61,20 @@ What is the relationship between terrorism and religious repression? Some argue 
 
 ## Teaching
 
-### University of Michigan – Graduate Student Instructor (GSI)
+### University of Michigan
 
-**Introduction to American Politics**, Fall 2024  
-*Instructor: Kenneth Lowande*
-
+#### Graduate Student Instructor
 **Introduction to Comparative Politics**, Winter 2025  
 *Instructor: Brian Min*
+**Introduction to American Politics**, Fall 2024  
+*Instructor: Kenneth Lowande*
 
 **Graduate Teacher Certificate Program**
 
 <details>
 <summary>Show details</summary>
 <blockquote>
-I am currently participating in the University of Michigan's Graduate Teacher Certificate (GTC) Program, coordinated by the Center for Research on Learning and Teaching (CRLT). As part of this program, I have:
-
-- Completed workshops on teaching and learning
-- Participated in a student-led consultation and classroom observation of my teaching  
-- Begun a mentorship on college-level teaching
-
-Please contact me for teaching materials.
+I am currently participating in the University of Michigan's Graduate Teacher Certificate (GTC) Program, coordinated by the Center for Research on Learning and Teaching (CRLT). As part of this program, I have: (1) Completed workshops on teaching and learning, (2) Participated in a student-led consultation and classroom observation of my teaching, (3) Begun a mentorship on college-level teaching. Please contact me for teaching materials.
 </blockquote>
 </details>
 
