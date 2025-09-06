@@ -5,9 +5,9 @@ title: Mostafa El Sharkawy
 
 # About
 
-I'm a Ph.D. candidate in Political Science at the [University of Michigan](https://lsa.umich.edu/polisci/people/graduate-students/mostafa-el-sharkawy.html). My research focuses on the politics of religion, identity, and violence predominantly in the Middle East and Muslim-majority countries.
+I'm a Ph.D. candidate in Political Science at the [University of Michigan](https://lsa.umich.edu/polisci/people/graduate-students/mostafa-el-sharkawy.html). My research focuses on the politics of religion, identity, and conflict in the Middle East and Muslim-majority countries.
 
-My dissertation project combines text analysis, survey data, and qualitative interviews to investigate the political behaviour of religious authorities during periods of political crisis and contention. I am grateful to the [Global Islamic Studies Center](https://ii.umich.edu/content/ii-directory/islamicstudies/en.html), the [Rackham Graduate School](https://rackham.umich.edu/), and the [American Political Science Association's MENA Section](https://web.apsanet.org/mena/about-the-project/) for supporting my research.
+My dissertation project combines text analysis, survey data, and qualitative interviews to investigate the political behaviour of religious authorities during periods of political crisis and conflict. I am grateful to the [Global Islamic Studies Center](https://ii.umich.edu/content/ii-directory/islamicstudies/en.html), the [Rackham Graduate School](https://rackham.umich.edu/), and the [American Political Science Association's MENA Section](https://web.apsanet.org/mena/about-the-project/) for supporting my research.
 
 Prior to arriving at Michigan, I graduated from the [University of Toronto](https://www.utoronto.ca/) with a B.A. in International Relations and Public Policy. I have also worked as a researcher at the Canadian Network for Research on Terrorism, Security and Society and as a policy assistant at the House of Commons.
 
