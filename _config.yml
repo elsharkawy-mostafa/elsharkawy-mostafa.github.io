@@ -1,5 +1,10 @@
 title: Mostafa El Sharkawy
-description: | 
+
+# Short, plain text: used by search engines & <meta name="description">
+description: "Mostafa El Sharkawy"
+
+# Custom variable: long HTML you want under your headshot
+profile_description: |
   <strong>Ph.D. Candidate</strong><br>
   Department of Political Science<br>
   University of Michigan<br>
